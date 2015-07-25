@@ -11,7 +11,7 @@ The repository was previously housed at: [https://git.assembla.com/moyo-content.
 * PHP 5.3.10 or better
 * Composer
 * Moyo Components
-    * [com_taxonomy](https://github.com/kedweber/com_taxonomy.git)
+    * [com_taxonomy](https://github.com/kedweber/com_taxonomy)
 
 ## Installation
 
