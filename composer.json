@@ -1,0 +1,17 @@
+{
+    "name": "moyo/com_documents",
+    "type": "joomlatools-installer",
+    "description": "Document Management.",
+    "keywords": ["joomla", "nooku", "terms", "tags"],
+    "homepage": "https://github.com/cta-int/terms.git",
+    "authors": [
+        {
+            "name": "Joachim van de Haterd",
+            "email": "derjoachim@gmail.com",
+            "homepage": "http://www.moyoweb.nl"
+        }
+    ],
+    "require": {
+        "joomlatools/installer": "*"
+    }
+}
